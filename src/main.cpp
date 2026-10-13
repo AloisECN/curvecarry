@@ -1,4 +1,5 @@
 #include <iostream>
+#include<marketdata.hpp>
 
 // In the omnisiah we pray, so that the machine spirit be mercifull
 int main(){
