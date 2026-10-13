@@ -3,6 +3,6 @@
 
 // In the omnisiah we pray, so that the machine spirit be mercifull
 int main(){
-    std::cout<< "test" << '\n' ;
+    auto md = cc::load_csv("wti", "data/wti.csv");
     return 0 ;
 }
