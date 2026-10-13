@@ -1,4 +1,4 @@
-Project in C++ by Aloïs Maréchal (quant part) and Romain Tévissen (Risk Part)
+Project in C++ by Aloïs Maréchal (quant part) and Romain Tevissen (Risk Part)
 
 This project was made to get a better understanding of both the commodities mkt
 and how to code in C++, getting to know objects, pointers and the quircks of 
