@@ -7,5 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(
             curvecarry src/main.cpp
             src/csv_loader.cpp
+            src/roll_rule.cpp
             )
 target_include_directories(curvecarry PRIVATE include)
